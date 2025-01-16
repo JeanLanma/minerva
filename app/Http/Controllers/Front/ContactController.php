@@ -18,7 +18,7 @@ class ContactController extends Controller
 
     public function __construct()
     {
-        $this->ContactMails[] = 'recepcion@hoteljacentro.com';
+        # $this->ContactMails[] = '';
         $this->ContactMails[] = 'desarrollo.software@pcbtroniks.com';
     }
 
