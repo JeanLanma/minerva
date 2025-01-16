@@ -3,10 +3,10 @@
         <ul>
             
             <li class="relative border-black border-opacity-30 border-b-2">
-                <div class="bg-main w-full h-28 inner-shadow">
-                    <img class="w-32 mx-auto" src="{{ asset('assets/logow.png') }}" alt="Logo">
-                    <br>
-                    <br>
+                <div class="bg-main w-full h-28 inner-shadow flex justify-center items-center">
+                    <a href="{{route('home')}}">
+                        <img class="w-32 mx-auto" src="{{ asset('assets/logow.png') }}" alt="Logo">
+                    </a>
                 </div>
                 <a href="javascript:void(0)" class="absolute top-0 right-0   focus:bg-red-500 text-white float-right w-14 h-14 leading-tight text-[2.5rem] text-center transition-all duration-150 rounded-xl rounded-shadow" id="closeNavBtn">&times;</a>
             </li>

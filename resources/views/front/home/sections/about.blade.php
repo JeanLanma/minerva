@@ -12,7 +12,7 @@
             <br>
             <p class="lg:pr-8 text-justify text-dark-text mb-8 lg:mb-0">
                 Reinventamos el concepto del “Hotel Boutique” para entregarte una estancia placentera y siempre a tu medida. 
-                Sin importar el motivo de tu viaje, en nuestro Adults Only hotel creamos una experiencia de hospedaje especialmente
+                Sin importar el motivo de tu viaje, en nuestro hotel creamos una experiencia de hospedaje especialmente
                 pensada para ti y tus distintas necesidades mientras tú te encargas de tus distintas ocupaciones.
             </p>
             <div class="h-3 xl:h-8"></div>
