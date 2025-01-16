@@ -3,7 +3,7 @@
     <div class="px-8 py-[5.5rem] flex flex-wrap max-w-7xl mx-auto">
         <div class="lg:w-1/2 w-full">
             <h2 class="text-3xl font-bold">
-                Hotel boutique FCH Minerva
+                Hotel FCH Minerva
             </h2>
             <span class="border-b-4 border-main block lg:w-72 my-2"></span>
             <p class="text-xl">
