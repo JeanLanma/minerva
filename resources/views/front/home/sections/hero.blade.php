@@ -12,7 +12,7 @@
                     <img class="w-60" src="{{ asset('assets/logo.png') }}" alt="Logo Hotel FCH Minerva">
                 </div>
                 <h2 class="text-5xl font-light" data-swiper-parallax-duration="400" data-swiper-parallax="-300">
-                    Hotel boutique FCH Minerva
+                    Hotel FCH Minerva
                 </h2>
                 <span class="w-[21rem] lg:w-[41rem]  mx-auto border-b-4 border-main"></span>
                 <p class="text-lg px-10">
