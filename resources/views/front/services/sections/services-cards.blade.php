@@ -6,7 +6,7 @@
 
         {{-- Rooms --}}
             <div class="max-w-screen-2xl mx-auto flex flex-wrap justify-center items-center">
-
+ 
                 {{-- card --}}
 
                 <div class="flex flex-col lg:max-h-80 xl:h-80 max-w-[22.5rem] my-8 h-[32rem] min-h-[32rem] lg:min-h-[39rem] sm:basis-1/2 sm:max-w-1/2 lg:basis-1/3 lg:max-w-1/3 px-2">
