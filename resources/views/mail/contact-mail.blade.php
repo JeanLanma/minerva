@@ -126,7 +126,7 @@
                           <td bgcolor="#ffffff" width="400" align="right" class="mobile-hide">
                             <table border="0" cellpadding="0" cellspacing="0">
                               <tr>
-                                <td align="right" style="padding: 0 0 5px 0; font-size: 14px; font-family: Arial, sans-serif; color: #666666; text-decoration: none;"><span style="color: #666666; text-decoration: none;">Hotel JA Centro<br>hoteljacentro.com</span></td>
+                                <td align="right" style="padding: 0 0 5px 0; font-size: 14px; font-family: Arial, sans-serif; color: #666666; text-decoration: none;"><span style="color: #666666; text-decoration: none;">{{ config('app.name') }}<br>{{ {{ config('app.url') }} }}</span></td>
                               </tr>
                             </table>
                           </td>
@@ -229,7 +229,7 @@
                   <tr>
                     <td align="center" valign="middle" style="font-size: 12px; line-height: 18px; font-family: Helvetica, Arial, sans-serif; color:#666666;">
                       <span class="appleFooter" style="color:#666666;">
-                        Avenida Miguel Hidalgo y Costilla #656, C.P. 44100 Guadalajara, Jalisco, México
+                          Av. José María Morelos 2070, Arcos Vallarta, 44130 Guadalajara, Jal
                       </span>
                       <br>
                       <a class="original-only" style="color: #666666; text-decoration: none;">Privacidad</a><span class="original-only" style="font-family: Arial, sans-serif; font-size: 12px; color: #444444;">&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;</span><a style="color: #666666; text-decoration: none;">Este mail es de caracter confidencial</a>

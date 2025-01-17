@@ -57,8 +57,8 @@
         <p class="text-white/50 text-sm">
             &copy; 
             <script>document.write(new Date().getFullYear())</script>
-            <noscript>2023</noscript>
-            Hotel JA Centro. Todos los derechos reservados.
+            <noscript>2025</noscript>
+            Hotel FCH Minerva. Todos los derechos reservados.
             Powered by <a href="https://pcbtroniks.com" target="_blank" class="font-bold">Pcbtroniks</a>.
         </p>
     </div>
