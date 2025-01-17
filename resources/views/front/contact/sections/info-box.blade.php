@@ -9,17 +9,17 @@
             <ul class="text-sm font-bold flex flex-col gap-10 text-center">
                 <li>
                     <p>
-                        Avenida Miguel Hidalgo y Costilla #656, C.P. 44100 Guadalajara, Jalisco, México
+                        Av. José María Morelos 2070, Arcos Vallarta, 44130 Guadalajara, Jal.
                     </p>
                 </li>
                 <li>
                     <p>
-                        +52 (33) 3658 1051
+                        +52 (33) 1830 4417
                     </p>
                 </li>
                 <li>
                     <p>
-                        recepcion@hoteljacentro.com
+                        recepcion@fchminerva.com
                     </p>
                 </li>
                 <li>
