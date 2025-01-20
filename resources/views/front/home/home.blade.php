@@ -123,6 +123,8 @@ button.cta-main-button:hover span {
 
         @include('front.home.sections.services')
 
+        @include('front.home.sections.amenities')
+
         @include('front.home.sections.comments')
     </div>
 @endsection
